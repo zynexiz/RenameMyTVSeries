@@ -25,6 +25,8 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 <li>v2.0.0 – Initial release of Rename My TV Series v2</li>
 </ul>
 
+<h2 id="PurposeofRenameMyTVSeries">Support and information</h2>
+<p>Visit https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2</p>
 <h2 id="PurposeofRenameMyTVSeries">Installation</h2>
 <p># git clone https://github.com/zynexiz/RenameMyTVSeries<br>
 # cd RenameMyTVSeries<br>
