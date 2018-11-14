@@ -1,4 +1,4 @@
-<h2 id="PurposeofRenameMyTVSeries">Purpose of Rename My TV Series</h2>
+<h2>Purpose of Rename My TV Series</h2>
 <p>Originally the application was built as a purpose to learn more about <a title="Lazarus Pascal - Free, Delphi 7 like, developers environment" href="https://www.lazarus-ide.org/">Lazarus Pascal</a> and cross-platform development.</p>
 <p>In the meanwhile, my tool is being used be a lot of users to help them rename TV-Series files.<br />
 Just keep in mind that this tool is not to promote illegal downloading or illegal sharing of copyrighted materials. It&#8217;s just a handy tool to occasionally rename some of your TV show files.</p>
@@ -18,16 +18,17 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 <li>Log file of what files have been renamed</li>
 </ul>
 
-<h2 id="PurposeofRenameMyTVSeries">Versions</h2>
+<h2>Versions</h2>
 <ul>
 <li>v2.0.1b – Linux only: Minor refresh issue in the preferences made menus look transparent (thanks Mike for reporting!).</li>
 <li>v2.0.1 – Minor bug fixes and some cosmetic improvements mostly for macOS dark theme.</li>
 <li>v2.0.0 – Initial release of Rename My TV Series v2</li>
 </ul>
 
-<h2 id="PurposeofRenameMyTVSeries">Support and information</h2>
+<h2>Support and information</h2>
 <p>Visit https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2</p>
-<h2 id="PurposeofRenameMyTVSeries">Installation</h2>
+
+<h2>Installation</h2>
 <p># git clone https://github.com/zynexiz/RenameMyTVSeries<br>
 # cd RenameMyTVSeries<br>
 # makepkg -i
