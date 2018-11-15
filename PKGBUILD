@@ -13,7 +13,7 @@ url="https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/"
 license=('custom')
 
 source=('LICENSE' 'RenameMyTVSeries.sh' 'RenameMyTVSeries.desktop')
-source_x86_64=("https://tweaking4all.com/wp-content/uploads/directlink/$_pgmname-$pkgver-Linux64bit.tar.gz")
+source_x86_64=("https://www.tweaking4all.com/RenameMyTVSeries2.tar.gz")
 
 md5sums=('c6618071446e1528f9080cbb2eb5913a'
          '21641c4c01d8c31845b32bd9d11e92d6'
