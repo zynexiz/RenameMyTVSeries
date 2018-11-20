@@ -20,9 +20,10 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 
 <h2>Versions</h2>
 <ul>
-<li>v2.0.1b – Linux only: Minor refresh issue in the preferences made menus look transparent (thanks Mike for reporting!).</li>
-<li>v2.0.1 – Minor bug fixes and some cosmetic improvements mostly for macOS dark theme.</li>
-<li>v2.0.0 – Initial release of Rename My TV Series v2</li>
+  <li>v2.0.2 – Added parameter for %NY (see below), implemented Database upgrade mechanism, improved language support</li>
+  <li>v2.0.1b – Linux only: Minor refresh issue in the preferences made menus look transparent (thanks Mike for reporting!).</li>
+  <li>v2.0.1 – Minor bug fixes and some cosmetic improvements mostly for macOS dark theme.</li>
+  <li>v2.0.0 – Initial release of Rename My TV Series v2</li>
 </ul>
 
 <h2>Support and information</h2>
