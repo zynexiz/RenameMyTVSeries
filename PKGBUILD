@@ -1,6 +1,6 @@
 # Maintainer: Michael Rydén (zynex(at)ezmail.se)
 # App: RenameMyTVSeries
-# Version: 2.0.1b
+# Version: 2.0.2
 # Webpage: https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/
 
 pkgname=renamemytvseries-bin
