@@ -5,21 +5,19 @@
 
 pkgname=renamemytvseries-bin
 _pgmname=RenameMyTVSeries
-pkgver=2.0.1b
+pkgver=2.0.2
 pkgrel=1
 pkgdesc="Rename your TV-Series using TheTVDB"
 arch=('x86_64')
 url="https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/"
 license=('custom')
 
-source=('LICENSE' 'RenameMyTVSeries.sh' 'RenameMyTVSeries.desktop')
-source_x86_64=("https://www.tweaking4all.com/RenameMyTVSeries2.tar.gz")
+source=('LICENSE' 'RenameMyTVSeries.sh' 'RenameMyTVSeries.desktop' 'https://www.tweaking4all.com/RenameMyTVSeries2.tar.gz')
 
 md5sums=('c6618071446e1528f9080cbb2eb5913a'
          '21641c4c01d8c31845b32bd9d11e92d6'
-         '4348d64bef9cee3f50f9d908e72c46dd')
-md5sums_x86_64=('SKIP')
-
+         '4348d64bef9cee3f50f9d908e72c46dd'
+         'SKIP')
 
 package() {
   cd "$srcdir"
