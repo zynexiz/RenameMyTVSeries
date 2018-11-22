@@ -17,7 +17,7 @@ source_x86_64=("https://www.tweaking4all.com/RenameMyTVSeries2.tar.gz")
 
 md5sums=('c6618071446e1528f9080cbb2eb5913a'
          '21641c4c01d8c31845b32bd9d11e92d6'
-         '21028258448f8f78c28e00a899d25813')
+         '4348d64bef9cee3f50f9d908e72c46dd')
 md5sums_x86_64=('SKIP')
 
 
