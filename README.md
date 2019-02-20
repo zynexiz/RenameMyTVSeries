@@ -20,6 +20,28 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 
 <h2>Versions</h2>
 <ul>
+  <li>2.0.4 – Bug fixes and some new features
+– Fixed counter bug in list found episodes
+– Added Force Refresh button (forces to redownload TheTVDB data)
+– Added a splitter allowing you to resize the SelectedEpisodes and SelectedFiles lists
+– Added button to reset the splitter position back to the middle
+– Added # and ? to default replacement special chars to be replaced with nothing (removed)
+– Added in Preferences: when double clicking a row in the “History”, that row will be removed
+– Added in Preferences: Optional have no leading zero’s for the “Extras” (season 0)
+– Added the option to load episodes right away when selecting a search 
+result as an alternative to double clicking a show (see Preferences)
+– Added the option to use both titles when merging 2 episodes (Eg. title 1 – title 2)
+– Bug fixed: when more files are shown than episodes listed a would show name dummy for the missing episode in the list
+– Renamed and repositioned some buttons in the main window (space needed for the new buttons)
+– Work around for selecting from history and clicking search a second time – now shows results (removed year from edit field)
+– Resolved issue with minimum number of characters for Season and 
+Episode (for example with shows that have a year number instead of a 
+season number)
+– Fixed: For TV shows that miss a First Aired date, an attempt will be made to retrieve it from the first episode’s airdate
+– Added AutoLog option with fixed path for log files – logs will be 
+stored in that directory automatically when this option is enabled
+– Added an optional default log location
+    – Added seconds to log filename (for those who are really quick)</li>
   <li>v2.0.2 – Added parameter for %NY (see below), implemented Database upgrade mechanism, improved language support</li>
   <li>v2.0.1b – Linux only: Minor refresh issue in the preferences made menus look transparent (thanks Mike for reporting!).</li>
   <li>v2.0.1 – Minor bug fixes and some cosmetic improvements mostly for macOS dark theme.</li>
