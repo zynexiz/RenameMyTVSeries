@@ -1,6 +1,6 @@
 <h2>Purpose of Rename My TV Series</h2>
 <p>Originally the application was built as a purpose to learn more about <a title="Lazarus Pascal - Free, Delphi 7 like, developers environment" href="https://www.lazarus-ide.org/">Lazarus Pascal</a> and cross-platform development.</p>
-<p>In the meanwhile, my tool is being used be a lot of users to help them rename TV-Series files.<br />
+<p>In the meanwhile, the tool is being used be a lot of users to help them rename TV-Series files.<br />
 Just keep in mind that this tool is not to promote illegal downloading or illegal sharing of copyrighted materials. It&#8217;s just a handy tool to occasionally rename some of your TV show files.</p>
 <p>The philosophy is a simple work flow; you have a few odd named TV Show episodes and you&#8217;d like to give them a proper name, based on the TV Show name, season, episode and title of the episode. This has been expanded with features like resolution, year, data first aired, etc.</p>
 <p>This tool by no means pretends to be anything else than just that.</p>
@@ -45,7 +45,8 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 </ul>
 
 <h2>Support and information</h2>
-<p>Visit https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2</p>
+<p>I'm not the developer of this application, I just manage the build packages for the developer. Don't post bug reports here!</p>
+<p>Visit https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2 for more info and bug reports.</p>
 
 <h2>Installation</h2>
 <p># git clone https://github.com/zynexiz/RenameMyTVSeries<br>
@@ -55,3 +56,6 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 
 <p>Alternatively, download the zip file directly and unpack it yourself before you build it.</p>
 <p>KaOS users kan install the application from KCP with <b>kcp -i renamemytvseries</b> or from Octopi GUI.</p>
+
+<h2>Note</h2>
+ 
