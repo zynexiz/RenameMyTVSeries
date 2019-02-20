@@ -5,7 +5,7 @@
 
 pkgname=renamemytvseries-bin
 _pgmname=RenameMyTVSeries
-pkgver=2.0.2
+pkgver=2.0.4
 pkgrel=1
 pkgdesc="Rename your TV-Series using TheTVDB"
 arch=('x86_64')
