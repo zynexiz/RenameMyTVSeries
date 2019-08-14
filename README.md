@@ -57,3 +57,4 @@ Just keep in mind that this tool is not to promote illegal downloading or illega
 
 <p>Alternatively, download the zip file directly and unpack it yourself before you build it.</p>
 <p>KaOS users kan install the application from KCP with <b>kcp -i renamemytvseries</b> or from Octopi GUI.</p>
+<p>Arch Linux user can add this thru AUR with fx. Octopi GUI or pikaur (pikaur -S renamemytvseries-bin).</p>
