@@ -1,11 +1,11 @@
 # Maintainer: Michael Rydén (zynex(at)ezmail.se)
 # App: RenameMyTVSeries
-# Version: 2.0.6
+# Version: 2.0.10
 # Webpage: https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/
 
 pkgname=renamemytvseries-bin
 _pgmname=RenameMyTVSeries
-pkgver=2.0.6
+pkgver=2.0.10
 pkgrel=1
 pkgdesc="Rename your TV-Series using TheTVDB"
 arch=('x86_64')
