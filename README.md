@@ -1,5 +1,9 @@
-<h2>QT/GTK beta versions</h2>
-<p>For newer QT/GTK beta versions, head to https://aur.archlinux.org/packages/?K=renamemytvseries for these packages.</p>
+<h2>Notice: This Version is Outdated</h2>
+This package refers to an outdated legacy version of Rename My TV Series.
+For actively maintained QT/GTK beta versions, please use the updated AUR packages:
+
+https://aur.archlinux.org/packages/?K=renamemytvseries
+
 <h2>Purpose of Rename My TV Series</h2>
 <p>Originally the application was built as a purpose to learn more about <a title="Lazarus Pascal - Free, Delphi 7 like, developers environment" href="https://www.lazarus-ide.org/">Lazarus Pascal</a> and cross-platform development.</p>
 <p>In the meanwhile, the tool is being used be a lot of users to help them rename TV-Series files.<br />
